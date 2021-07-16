@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#0B79B5</color>
+    <color name="colorPrimaryDark">#076193</color>
+    <color name="colorAccent">#0B79B5</color>
+
+    <color name="background">#1b1b1b</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="greyWhite">#efefef</color>
+    <color name="greydWhite">#BDBDBD</color>
+    <color name="black">#000000</color>
+    <color name="lightGrey">#969696</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="colorBackground">#300B79B5</color>
+
+    <color name="toolbarColor">#70FFFFFF</color>
+    <color name="secondaryText">#1b1b1b</color>
+
+    <color name="grey">#595959</color>
+    <color name="red">#D32F2F</color>
+    <color name="orange">#FD720E</color>
+    <color name="yellow">#C0A915</color>
+    <color name="green">#45DD01</color>
+
+    <color name="popcorn">#606060</color>
+    <color name="popcorn1">#4e4e4e</color>
+
+    <color name="fb">#1976D2</color>
+    <color name="tw">#03A9F4</color>
+    <color name="ig">#ED413E</color>
+    <color name="yt">#F44336</color>
+    <color name="ie">#00C8F6</color>
+
+</resources>
